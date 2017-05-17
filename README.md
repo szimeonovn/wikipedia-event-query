@@ -1,3 +1,4 @@
 wikipedia-event-query
 =====================
-TODO
+
+Open source Java library for obtaining information..
